@@ -1,26 +1,16 @@
+<edition>{edition}</edition>
+<revhistory>
 
-<!--
-  rudder-doc-docinfo.xml
-  DocBook document information file for rudder-doc.txt.
--->
-  <edition>v0.1.0</edition>
+  <revision>
+    <revnumber>v0.9.0</revnumber>
+    <date>29/07/2014</date>
+    <authorinitials>Felipe A. G. M., Kely D. V. V.</authorinitials>
+    <revremark>
+- Escrita dos capítulos pelos autores.
+    </revremark>
+  </revision>
 
-  <revhistory>
-
-
-    <revision>
-      <revnumber>v0.1.0</revnumber>
-      <date>16/04/2014</date>
-      <authorinitials>Kely D. V. V., Felipe A. G. M.</authorinitials>
-      <revremark>
-          - Escrita dos capítulos Capítulos 1, 2, e 3 (#2)
-
-      </revremark>
-    </revision>
-
-
-
-  </revhistory>
+</revhistory>
 
 
   <authorgroup>
@@ -48,3 +38,9 @@
 
   </authorgroup>
 
+<othercredit>
+    <firstname>Eduardo</firstname>
+    <surname>Medeiros</surname>
+    <othername>Santana</othername>
+  <contrib>Editor</contrib>
+</othercredit>
