@@ -2,6 +2,16 @@
 <revhistory>
 
   <revision>
+    <revnumber>v0.9.1</revnumber>
+    <date>31/07/2014</date>
+    <authorinitials>Felipe A. G. M., Kely D. V. V.</authorinitials>
+    <revremark>
+- Referência a Números binários do livro Introdução a Computação (#5).
+- Correção do nome do autor (#6).
+    </revremark>
+  </revision>
+
+  <revision>
     <revnumber>v0.9.0</revnumber>
     <date>29/07/2014</date>
     <authorinitials>Felipe A. G. M., Kely D. V. V.</authorinitials>
