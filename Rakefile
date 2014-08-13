@@ -248,7 +248,7 @@ namespace "github" do
 
     issues = client.list_issues(GITHUB_REPO, state:'Closed', milestone:milestone[:number], direction:'asc')
     issues.each do |i|
-      puts "- #{i[:title]} (##{i[:number]})."
+      puts "- #{i[:title]} (##{i[:number]});"
     end
   end
 end
