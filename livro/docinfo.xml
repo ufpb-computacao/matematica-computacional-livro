@@ -2,11 +2,26 @@
 <revhistory>
 
   <revision>
+    <revnumber>v0.9.4</revnumber>
+    <date>22/09/2014</date>
+    <authorinitials>Felipe,Kelly,Eduardo</authorinitials>
+    <revremark>
+<ulink url="{gitrepo}/issues/12">Atualização da Definição 1.2;</ulink>
+<ulink url="{gitrepo}/issues/13">Atualização de 1.3 Sistema de Ponto Flutuante Normalizado;</ulink>
+<ulink url="{gitrepo}/issues/14">Correção na Definição 2.2;</ulink>
+<ulink url="{gitrepo}/issues/15">Correções após Exemplo 2.5;</ulink>
+<ulink url="{gitrepo}/issues/16">Correção na Definição 3.16, det(A);</ulink>
+<ulink url="{gitrepo}/issues/17">Adição de links no histórico de revisão;</ulink>
+    </revremark>
+  </revision>
+
+
+  <revision>
     <revnumber>v0.9.3</revnumber>
     <date>11/09/2014</date>
     <authorinitials>Eduardo</authorinitials>
     <revremark>
-- Atualização da Ficha Técnica (#11);
+<ulink url="{gitrepo}/issues/11">Atualização da Ficha Técnica;</ulink>
     </revremark>
   </revision>
 
@@ -15,9 +30,9 @@
     <date>13/08/2014</date>
     <authorinitials>Felipe A. G. M., Kely D. V. V.</authorinitials>
     <revremark>
-- Revisão geral do Livro (#7).
-- Correção dos Exemplos 1.4, 1.5 e 1.6 (#8).
-- Correção do Exemplo 5.15 (#9).
+<ulink url="{gitrepo}/issues/7">Revisão geral do Livro;</ulink>
+<ulink url="{gitrepo}/issues/8">Correção dos Exemplos 1.4, 1.5 e 1.6;</ulink>
+<ulink url="{gitrepo}/issues/9">Correção do Exemplo 5.15;</ulink>
     </revremark>
   </revision>
 
@@ -26,8 +41,8 @@
     <date>31/07/2014</date>
     <authorinitials>Felipe A. G. M., Kely D. V. V.</authorinitials>
     <revremark>
-- Referência a Números binários do livro Introdução a Computação (#5).
-- Correção do nome do autor (#6).
+<ulink url="{gitrepo}/issues/5">Referência a Números binários do livro Introdução a Computação;</ulink>
+<ulink url="{gitrepo}/issues/6">Correção do nome do autor;</ulink>
     </revremark>
   </revision>
 
