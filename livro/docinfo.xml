@@ -4,7 +4,7 @@
   <revision>
     <revnumber>v0.9.4</revnumber>
     <date>22/09/2014</date>
-    <authorinitials>Felipe,Kelly,Eduardo</authorinitials>
+    <authorinitials>Felipe, Kelly, Eduardo</authorinitials>
     <revremark>
 <ulink url="{gitrepo}/issues/12">Atualização da Definição 1.2;</ulink>
 <ulink url="{gitrepo}/issues/13">Atualização de 1.3 Sistema de Ponto Flutuante Normalizado;</ulink>
