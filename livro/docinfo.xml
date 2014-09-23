@@ -2,6 +2,15 @@
 <revhistory>
 
   <revision>
+    <revnumber>v0.9.5</revnumber>
+    <date>23/09/2014</date>
+    <authorinitials>Eduardo</authorinitials>
+    <revremark>
+<ulink url="{gitrepo}/issues/18">Solicitando feedback ao final de cada capítulo;</ulink>
+    </revremark>
+  </revision>
+
+  <revision>
     <revnumber>v0.9.4</revnumber>
     <date>22/09/2014</date>
     <authorinitials>Felipe, Kelly, Eduardo</authorinitials>
