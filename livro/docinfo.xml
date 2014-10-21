@@ -2,6 +2,20 @@
 <revhistory>
 
   <revision>
+    <revnumber>v1.0.0</revnumber>
+    <date>21/10/2014</date>
+    <authorinitials>Felipe, Kelly, Eduardo</authorinitials>
+    <revremark>
+<ulink url="{gitrepo}/issues/19">Inclusão do ISBN;</ulink>
+<ulink url="{gitrepo}/issues/20">cap3 Correção no Exercício 9;</ulink>
+<ulink url="{gitrepo}/issues/21">cap3 Inclusão do Teorema 3.2 sobre matriz positiva definida;</ulink>
+<ulink url="{gitrepo}/issues/22">cap4 Atualização do Exemplo 4.10;</ulink>
+<ulink url="{gitrepo}/issues/23">cap5 Atualização do Exemplo 5.3;</ulink>
+    </revremark>
+  </revision>
+
+
+  <revision>
     <revnumber>v0.9.5</revnumber>
     <date>23/09/2014</date>
     <authorinitials>Eduardo</authorinitials>
