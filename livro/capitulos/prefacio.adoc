@@ -1,0 +1,81 @@
+Este livro foi projetado e escrito com o objetivo de oferecer aos
+estudantes do Curso de Licenciatura em Computação a Distância um
+material didático de fácil entendimento dos fundamentos de um curso de
+Matemática Computacional. Temos nos esforçado em apresentar a teoria
+referente à resolução de sistemas de equações lineares de forma não
+tão rigorosa. Isto é, neste livro focamos no uso da teoria e suas
+propriedades e não nos aprofundamos nas demonstrações destas.
+Priorizamos o uso do desenvolvimento teórico com exemplos e com uma
+quantidade razoável de atividades para uma fixação do conteúdo, de tal
+forma que resulte de máximo proveito aos estudantes.
+
+Esta obra é composta por 5 capítulos contendo os principais tópicos
+abordados em uma disciplina básica de Matemática Computacional, e que
+seguem uma ordem progressiva de conteúdo, por isto recomendamos ao
+estudante que dedique tempo e esmero em cada capítulo e resolva a
+máxima quantidade de atividades.
+
+No primeiro capítulo abordamos as noções básicas dos erros, que possam
+surgir na resolução de um determinado problema, tais como, os erros da
+representação dos números no computador; no segundo capítulo estudamos
+a teoria relativa aos vetores em  latexmath:[$\mathbb{R}^n$] e os
+principais conceitos que os envolvem, como por exemplo a norma e a
+distância; no terceiro capítulo estudamos a teoria que envolvem às
+matrizes, desde que estas são parte do objeto principal do estudo,
+portanto, fundamental para a teoria subsequente; no quarto capítulo
+introduzimos os sistemas de equações lineares e analisamos se seu
+conjunto solução é vazio ou tem uma ou infinitas soluções. Além disso,
+rescrevemos este em formato matricial e utilizamos a teoria vista no
+capitulo anterior para melhor trabalhar; no quinto capítulo e último
+capítulo, estudamos alguns métodos existentes na literatura para
+resolver os sistemas de equações lineares. Para ser mais precisos
+estes métodos são divididos em duas classes: métodos diretos e métodos
+iterativos.
+
+Sabemos que existem vários outros materiais e livros que abordam o
+mesmo conteúdo apresentado aqui, alguns até mais abrangentes. Somos
+porém, realistas que em uma primeira abordagem demos prioridade a
+possibilitar ao aluno familiarizar-se com os conceitos básicos e
+interpretações, deixando a prova de todos esses resultados a
+posteriori.
+
+Esperamos que este livro forneça apoio e incentivo para que o aluno,
+depois de aprender estes conceitos, se sinta confiante ao resolver
+problemas com aplicações práticas no mundo real. 
+[cols=">", frame="none", topbot="none"]
+|====
+| João Pessoa, julho de 2014.
+
+Felipe A. G. Moreno
+
+Kely D. V. Villacorta
+|====
+
+
+
+
+=== Público alvo
+
+O público alvo desse livro são os alunos de Licenciatura em Computação, na
+modalidade à distância footnote::[Embora ele tenha sido feito para atender aos alunos
+da Universidade Federal da Paraíba, o seu uso não se restringe a esta 
+universidade, podendo ser adotado por outras universidades do sistema UAB.].
+Ele foi concebido para ser utilizado numa disciplina de 'Introdução à Computação',
+no primeiro semestre do curso.
+
+[[como_estudar]]
+=== Como você deve estudar cada capítulo
+
+* Leia a visão geral do capítulo
+* Estude os conteúdos das seções
+* Realize as atividades no final do capítulo
+* Verifique se você atingiu os objetivos do capítulo
+
+.Na sala de aula do curso
+* Tire dúvidas e discuta sobre as atividades do livro com outros integrantes do curso
+* Leia materiais complementares eventualmente disponibilizados
+* Realize as atividades propostas pelo professor da disciplina
+
+////
+Sempre termine os arquivos com uma linha em branco.
+////
