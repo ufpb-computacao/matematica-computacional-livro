@@ -1,6 +1,17 @@
 <edition>{edition}</edition>
 <revhistory>
 
+<revision>
+  <revnumber>v1.0.1</revnumber>
+  <date>4/10/2014</date>
+  <authorinitials>Felipe, Kelly, Eduardo</authorinitials>
+  <revremark>
+<ulink url="{gitrepo}/issues/26">Revisão do Capítulo 4;</ulink>
+<ulink url="{gitrepo}/issues/27">Revisão do Capítulo 5;</ulink>
+<ulink url="{gitrepo}/issues/28">Inclusão de mini-sumário por capítulo;</ulink>
+  </revremark>
+</revision>
+
   <revision>
     <revnumber>v1.0.0</revnumber>
     <date>21/10/2014</date>
