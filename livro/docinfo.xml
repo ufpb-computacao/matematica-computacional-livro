@@ -1,6 +1,17 @@
 <edition>{edition}</edition>
 <revhistory>
 
+  <revision>
+    <revnumber>v1.0.2</revnumber>
+    <date>12/11/2014</date>
+    <authorinitials>Kelly</authorinitials>
+    <revremark>
+<ulink url="{gitrepo}/issues/30">cap1 Correção na seção 1.4.1;</ulink>
+<ulink url="{gitrepo}/issues/31">cap5 Correção no exemplo 5.2;</ulink>
+    </revremark>
+  </revision>
+
+
 <revision>
   <revnumber>v1.0.1</revnumber>
   <date>4/10/2014</date>
