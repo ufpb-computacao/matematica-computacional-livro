@@ -2,6 +2,16 @@
 <revhistory>
 
 <revision>
+  <revnumber>v1.0.5</revnumber>
+  <date>28/11/2014</date>
+  <authorinitials>Kelly</authorinitials>
+  <revremark>
+<ulink url="{gitrepo}/issues/33">Cap4: Correção Ortográfica;</ulink>
+<ulink url="{gitrepo}/issues/34">Cap4: Correção de desigualdade p. 81;</ulink>
+  </revremark>
+</revision>
+
+<revision>
   <revnumber>v1.0.4</revnumber>
   <date>17/11/2014</date>
   <authorinitials>Kelly</authorinitials>
@@ -9,6 +19,7 @@
 <ulink url="{gitrepo}/issues/32">cap5 Correção no Exemplo 5.7;</ulink>
   </revremark>
 </revision>
+
 
 <revision>
   <revnumber>v1.0.3</revnumber>
